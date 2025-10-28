@@ -1,83 +1,66 @@
-🌍 Global Sales & Profit Dashboard (Tableau)
-📎 Course
+## 🌍 Global Sales & Profit Dashboard (Tableau)
 
-CST2111 – Data Visualization
+### Course  
+**CST2111 – Data Visualization**
 
-👩‍💻 Author
+###  Author  
+**Shara Khandakar**  
 
-Shara Khandakar
-Student ID: 041217902
 
-📁 Project Overview
+---
 
-This project analyzes global sales and profit performance using the Global Superstore Orders & Returns (2016) dataset.
-The dashboard highlights:
+##  Project Overview  
+This project analyzes global sales and profit performance using the **Global Superstore Orders & Returns (2016)** dataset.  
 
-Total sales & profit performance
+The dashboard includes:  
+- Total sales & profit overview  
+- Regional & market trends  
+- Product category & sub-category insights  
+- Global map visualization  
+- Returns breakdown  
+- Monthly sales trend  
 
-Regional & market trends
+---
 
-Product category performance
+##  Key Features
 
-Country-level insights
+- Interactive filters (Region, Market, Category, Sub-Category)
+- KPI summary cards (Sales, Profit, Profit Ratio, Returns)
+- Geographic sales & profit map
+- Time-series analysis for sales trend
 
-Returns analysis & business impact
+---
 
-Monthly sales trend
+## Skills & Tools Used
 
-The goal was to create a clean, interactive, and insight-driven dashboard for business decisions.
+| Category | Details |
+|---|---|
+| Tools | Tableau Desktop / Tableau Public |
+| Techniques | KPI cards, maps, filters, drill-down charts, trend lines |
+| Skills | Dashboard design, BI storytelling, data interpretation |
 
-✅ Key Features
+---
 
-Interactive filters (Region, Market, Category, Sub-Category)
+## Data Source  
+- Global Superstore Orders 2016  
+- Global Superstore Returns 2016  
 
-KPI cards for Sales, Profit, Profit Ratio, Returns
+---
 
-Global map with sales & profit shading
+## Repository Contents  
+- `Global_Sales_Profit_Dashboard.twbx` — Tableau workbook  
+- `images/` — Dashboard screenshots  
+- `README.md` — Documentation  
 
-Top-profit & loss products
+---
 
-Monthly trend line chart
 
-Drill-down product insights
 
-🧠 Skills & Tools Used
-Category	Details
-Tools	Tableau Desktop / Tableau Public
-Techniques	KPI design, filters, maps, drill-downs, trend charts
-Skills	Data storytelling, BI dashboarding, visual formatting
-📊 Data Source
+## 📬 Contact  
 
-Global Superstore Orders 2016
+**LinkedIn:** https://www.linkedin.com/in/sara-khandakar/  
+**GitHub:** https://github.com/SaraKhandakar  
 
-Global Superstore Returns 2016
+---
 
-📂 Repository Contents
-
-Global_Sales_Profit_Dashboard.twbx — Tableau workbook
-
-images/ — Dashboard screenshots
-
-README.md — Documentation
-
-🚀 Learning Outcomes
-
-Built multi-sheet Tableau dashboard
-
-Applied business intelligence visualization concepts
-
-Practiced data handling & dashboard publishing
-
-Strengthened understanding of data-driven insights & trends
-
-🔗 Tableau Public Link
-
-(Paste your Tableau Public link here)
-
-📬 Contact
-
-If you'd like to discuss this project or data visualization:
-
-LinkedIn: https://www.linkedin.com/in/sara-khandakar/
-
-GitHub: https://github.com/SaraKhandakar
+ _Star this repo if you like the project!_
